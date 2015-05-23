@@ -8,6 +8,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Cloud Storage](#cloud-storage)
   * [Code Review](#code-review)
   * [Collaborative Software](#collaborative-software)
+  * [Commands](#commands)
   * [Configuration Management Database](#configuration-management-database)
   * [Configuration Management](#configuration-management)
   * [Continuous Integration & Continuous Deployment](#continuous-integration--continuous-deployment)
